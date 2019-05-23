@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/onderdeger-2/VM-Automation/_apis/build/status/onderdeger.pipelines-java?branchName=master)](https://dev.azure.com/onderdeger-2/VM-Automation/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
